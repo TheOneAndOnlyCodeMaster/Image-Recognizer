@@ -2,3 +2,11 @@ body{
     background-image: radial-gradient(crimson, coral, darkgoldenrod,gold, blue);
     background-size: cover;
 }
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px, ridge, darkgreen;
+}
+button{
+    margin-bottom: 30px;
+}
